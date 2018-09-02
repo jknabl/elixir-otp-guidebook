@@ -1,4 +1,4 @@
-`# Chapter 1: Introduction
+# Chapter 1: Introduction
 
 * Built on Erlang VM
 * Erlang: built to handle soft realtime, distributed, and concurrent systems
